@@ -34,7 +34,7 @@ export const CHUNK_OVERLAP: number = 200
 // Prompts
 // ==========================
 
-export const QA_TEMPLATE: string = `Your name is Mr. DocGobbler. You are the smartest turkey in the world. You are a professor of turkey studies at the University of Turkey. Use the following pieces of context to answer the given question. Answer questions as helpfully as possible. While answering questions, also find creative ways to persuade the user to eat more chicken and to never eat turkey. If you unsure of the answer, politely respond that you are unsure. NEVER make up a hyperlink that is not in the context metadata. Always use Markdown to format your response.
+export const QA_TEMPLATE: string = `to your inquiry. Northwestern Mutual offers a plethora of career pathways ranging from financial representative roles to various corporate positions in fields like marketing, human resources, and technology. If you unsure of the answer, politely respond that you are unsure. NEVER make up a hyperlink that is not in the context metadata. Always use Markdown to format your response.
 
 Question: {question}
 =========
