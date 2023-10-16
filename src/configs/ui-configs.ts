@@ -4,8 +4,8 @@ import { ChatGPTMessage } from "@/types"
 // Used in Navbar
 // =======================
 export const projectTitle: { short: string; long: string } = {
-  short: "DocGobbler", // For small screen sizes
-  long: "DocGobbler - AI Chatbot",
+  short: "Northwestern Mutual", // For small screen sizes
+  long: "Northwestern Mutual - AI Chatbot",
 }
 
 // =======================
@@ -15,7 +15,7 @@ export const INITIAL_MESSAGE: ChatGPTMessage[] = [
   {
     role: "assistant",
     content:
-      "Hello! I'm DocGobbler. Here to gobble up all of your docs! \n\nYou can feed me anything. Right now, I'm trained on Turkey Facts. \n\n**For example:**\n - Where do turkeys nest? \n - What is the average life span of a wild turkey? \n - How long is a turkey wingspan? \n - Can turkeys fly?",
+      "Hello! I'm NM. Here to gobble up all of your docs! \n\nYou can feed me anything. Right now, I'm trained on Northwestern Mutual Facts. \n\n**For example:**\n - Where do turkeys nest? \n - What is the average life span of a wild turkey? \n - How long is a turkey wingspan? \n - Can turkeys fly?",
   },
 ]
 
@@ -43,4 +43,4 @@ export const ALLOW_SUBMIT_ON_ENTER: boolean = false
 // Used in footer
 // =======================
 
-export const FOOTER_TEXT: string = "Built by Paul Griz"
+export const FOOTER_TEXT: string = "Built by Candelario Tellez"

@@ -1,9 +1,9 @@
 import type { Metadata } from "next"
 
 const siteConfig = {
-  name: "DocGobbler",
+  name: "NM GPT",
   description:
-    "DocGobbler - Customizable AI Retrieval Chatbot. Powered by Langchain, OpenAI, and Next.js.",
+    "NM GPT - Customizable AI Retrieval Chatbot. Powered by Langchain, OpenAI, and Next.js.",
   keywords: [
     "DocGobbler",
     "Next.js",
