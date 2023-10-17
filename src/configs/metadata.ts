@@ -3,7 +3,7 @@ import type { Metadata } from "next"
 const siteConfig = {
   name: "NM GPT",
   description:
-    "NM GPT - Customizable AI Retrieval Chatbot. Powered by Langchain, OpenAI, and Next.js.",
+    "NM GPT - Northwestern Mutual AI Retrieval Chatbot. Powered by Langchain, OpenAI, and Next.js.",
   keywords: [
     "DocGobbler",
     "Next.js",
@@ -12,12 +12,12 @@ const siteConfig = {
     "TypeScript",
     "AI",
     "AI Retrieval",
-    "Chat with Your Documents",
+    "Chat with NM Documents",
     "Vercel",
     "shadcn/ui",
   ],
-  authorName: "Paul Griz",
-  authorURL: "https://github.com/PaulGriz",
+  authorName: "Candelario Tellez",
+  authorURL: "https://github.com/",
   deploymentURL: `https://irs-pubs.vercel.app`,
   ogImage: {
     file: `/og.png`,
@@ -26,8 +26,8 @@ const siteConfig = {
     alt: "IRS AI Publication Search",
   },
   links: {
-    twitter: "https://twitter.com/PaulGrizII",
-    github: "https://github.com/PaulGriz",
+    twitter: "https://twitter.com/",
+    github: "https://github.com/",
   },
 }
 
