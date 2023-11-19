@@ -18,7 +18,7 @@ const siteConfig = {
   ],
   authorName: "Candelario Tellez",
   authorURL: "https://github.com/",
-  deploymentURL: `https://irs-pubs.vercel.app`,
+  deploymentURL: `nmgpt.dev`,
   ogImage: {
     file: `/og.png`,
     width: 1200,
