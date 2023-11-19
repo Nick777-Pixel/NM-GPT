@@ -18,7 +18,7 @@ const siteConfig = {
   ],
   authorName: "Candelario Tellez",
   authorURL: "https://github.com/",
-  deploymentURL: `nmgpt.dev`,
+  deploymentURL: `https://nm-gpt.vercel.app`,
   ogImage: {
     file: `/og.png`,
     width: 1200,
