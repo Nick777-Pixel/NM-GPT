@@ -15,7 +15,7 @@ export const INITIAL_MESSAGE: ChatGPTMessage[] = [
   {
     role: "assistant",
     content:
-      "Hello! I'm NM AI Chatbot! \n\nYou can feed me anything. Right now, I'm trained on Northwestern Mutual Facts. \n\n**For example:**\n - What is the Northwestern Mutual Health Center information? \n - What are the career opportunities available at Northwestern Mutual? \n - What training and development resources are available for new hires? \n - How long has Northwestern Mutual stood financially strong?",
+      "Hello! I'm NM AI Chatbot! \n\n Right now, I'm trained on Northwestern Mutual Facts. \n\n**For example:**\n - Where is the Northwestern Mutual Health Center? \n - What are the career opportunities available at Northwestern Mutual? \n - What training and development resources are available for new hires? \n - How long has Northwestern Mutual stood financially strong?",
   },
 ]
 
