@@ -23,7 +23,7 @@ const siteConfig = {
     file: `/og.png`,
     width: 1200,
     height: 630,
-    alt: "IRS AI Publication Search",
+    alt: "NM AI Publication Search",
   },
   links: {
     twitter: "https://twitter.com/",
