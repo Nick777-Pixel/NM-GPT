@@ -33,7 +33,7 @@ export default async function RunChain({
         const sourceDocuments = res?.sourceDocuments
 
         // Helpful for viewing source document metadata
-        if (process.env.SHOW_DEBUG_LOGS === "true") {
+        if (process.env.SHOW_DEBUG_LOGS === "false") {
           console.log("----------------------")
           console.log("sourceDocuments", sourceDocuments.slice(0, 1))
           console.log("----------------------")
