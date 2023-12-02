@@ -15,7 +15,7 @@ Link: https://platform.openai.com/docs/models/overview
 // Model Parameters
 // ==========================
 
-export const MODEL_NAME: string = "text-embedding-ada-002"
+export const MODEL_NAME: string = "gpt-4-32k"
 
 // Higher Temp = More Creative
 // Set a low temp to keep responses inline with the source docs
